@@ -1,2 +1,2 @@
-# vs-code-themes
-I'll post the vs code themes I made here!
+# Mars:
+![mars](https://github.com/RaghavGohil/vs-code-themes/assets/71706645/ed8fb968-0f18-41c9-a148-5d2ccae1d67b)
